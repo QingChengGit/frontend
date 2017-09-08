@@ -1,0 +1,13 @@
+.icon-circle-green-selected { display: inline-block; width: 22px; height: 22px; background-image: url(../../images/customer/sprite.png); background-position: -128px -40px; }
+.icon-completed { display: inline-block; width: 40px; height: 40px; background-image: url(../../images/customer/sprite.png); background-position: -128px 0px; }
+.icon-edit { display: inline-block; width: 13px; height: 13px; background-image: url(../../images/customer/sprite.png); background-position: -138px -106px; }
+.icon-err { display: inline-block; width: 64px; height: 64px; background-image: url(../../images/customer/sprite.png); background-position: 0px -64px; }
+.icon-gray-close { display: inline-block; width: 16px; height: 16px; background-image: url(../../images/customer/sprite.png); background-position: -150px -84px; }
+.icon-gray-right-arrow { display: inline-block; width: 10px; height: 18px; background-image: url(../../images/customer/sprite.png); background-position: -128px -106px; }
+.icon-gray-selected-disabled { display: inline-block; width: 22px; height: 22px; background-image: url(../../images/customer/sprite.png); background-position: -128px -84px; }
+.icon-popup-close-white { display: inline-block; width: 16px; height: 16px; background-image: url(../../images/customer/sprite.png); background-position: -150px -62px; }
+.icon-qr-code { display: inline-block; width: 46px; height: 46px; background-image: url(../../images/customer/sprite.png); background-position: -64px -64px; }
+.icon-question { display: inline-block; width: 18px; height: 18px; background-image: url(../../images/customer/sprite.png); background-position: -150px -40px; }
+.icon-square-selected { display: inline-block; width: 22px; height: 22px; background-image: url(../../images/customer/sprite.png); background-position: -128px -62px; }
+.icon-success { display: inline-block; width: 64px; height: 64px; background-image: url(../../images/customer/sprite.png); background-position: -64px 0px; }
+.icon-warn { display: inline-block; width: 64px; height: 64px; background-image: url(../../images/customer/sprite.png); background-position: 0px 0px; }

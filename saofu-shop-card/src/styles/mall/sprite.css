@@ -1,0 +1,4 @@
+.icon-down { display: inline-block; width: 12px; height: 12px; background-image: url(../../images/mall/sprite.png); background-position: 0px 0px; }
+.icon-move-bottom { display: inline-block; width: 12px; height: 12px; background-image: url(../../images/mall/sprite.png); background-position: -12px 0px; }
+.icon-move-top { display: inline-block; width: 12px; height: 12px; background-image: url(../../images/mall/sprite.png); background-position: 0px -12px; }
+.icon-up { display: inline-block; width: 12px; height: 12px; background-image: url(../../images/mall/sprite.png); background-position: -12px -12px; }
